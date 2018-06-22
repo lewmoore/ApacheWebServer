@@ -7,4 +7,5 @@ This Web Server can be found at http://54.246.222.13/
 
 Due to not having prior experience of Puppet, Ansible or Terraform, I read through the documentation to try and plan what I would do with them in order to automate this process.
 
-From what I can see, Terraform has can provide an AWS EC2 resource that allows instances to be created and deleted. I assume a Terraform script along these lines would provide a base for automating the creation of the EC2 instances. 
+
+From what I can see, Terraform has can provide an AWS EC2 resource that allows instances to be created and deleted. I assume a Terraform script along these lines would provide a base for automating the creation of the EC2 instances. Using something along these lines (https://www.terraform.io/intro/getting-started/build.html) would aid in the config or Terraform.
